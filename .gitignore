@@ -5,25 +5,25 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
-venv/
-ENV/
+# env/
+# venv/
+# ENV/
 .venv
 *.log
 
 # Django
 db.sqlite3
-media/
-staticfiles/
-.env
+# media/
+# staticfiles/
+# .env
 
 # Flutter
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
-.packages
-.pub-cache/
-.pub/
+# .packages
+# .pub-cache/
+# .pub/
 build/
 
 # IDEs
